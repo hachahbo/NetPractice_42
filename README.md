@@ -1,0 +1,11 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+  # NetPractice_42
+  <h2> this is my resume of what learn about Net_parctice <h2>
+  <img width="1434" alt="Screen Shot 2023-09-24 at 3 55 52 AM" src="https://github.com/hachahbo/NetPractice_42/assets/116384287/e10890df-307f-4fff-969b-a7fbf1aa3675">
+  </body>
+</html>
+
